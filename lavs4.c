@@ -1,3 +1,4 @@
+/* write a program to area of the circle*/
 main()
 {
    float radius,area,pi;
