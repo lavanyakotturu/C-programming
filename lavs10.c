@@ -1,3 +1,4 @@
+/* covert float value into integer*/
 #include<stdio.h>
 void main()
 {
