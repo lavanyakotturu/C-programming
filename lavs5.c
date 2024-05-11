@@ -1,3 +1,4 @@
+/*write a program to perimeter of circle*/
 main()
 {
    float radius,perimeter,pi;
