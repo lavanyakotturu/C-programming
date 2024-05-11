@@ -1,3 +1,4 @@
+/* average of three numbers*/
 main()
 {
     int a,b,c;
