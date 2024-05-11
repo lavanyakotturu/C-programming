@@ -1,3 +1,4 @@
+/* write a program to area of triangle*/
 main()
 {
   int base,height,area;
