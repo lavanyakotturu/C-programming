@@ -1,3 +1,4 @@
+/*write program to area of square*/
 main()
 {
    int side,area;
