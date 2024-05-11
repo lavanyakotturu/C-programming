@@ -1,3 +1,4 @@
+/*sum of three numbers*/
 #include<stdio.h>
 void main()
 {
