@@ -1,3 +1,4 @@
+/*coversion of faranheat to centi*/
 #include<stdio.h>
 void main()
 {
