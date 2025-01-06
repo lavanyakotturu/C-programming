@@ -6,7 +6,7 @@ int armstrong(int a)
     temp=a;
     while(a>0)
     {
-    rem=a/10;
+    rem=a%10;
     sum=sum+rem*rem*rem;
     a=a/10;
     }
